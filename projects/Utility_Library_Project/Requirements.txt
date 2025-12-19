@@ -1,0 +1,22 @@
+Requirement to project 1 (utility library )
+
+
+randoumNumber(from, to)                      //Added
+getRandomCharacter(type character)           //Added
+genreateWord(type character , number character )        //Added
+genrateKey(type character )                             //Added
+genrateKeys(number character ,type character )          //Added
+swap (int 1, int 2)                                     //Added
+swap(double 1 , double 2)                               //Added
+swap(string 1 , string 2)                               //Added
+swap (date1,date2)                                      //Added
+
+
+shuffle array (int array, size array)                  //Added
+shuffle array (string  array, size array)              //Added
+fillArrayWithRandoumNumbers(array,size,from,to)        //Added
+fillArrayWithRandoumWords(array,size,Type character ,number character)    //Added
+fillArrayWithRandoumKeys(array,number keys,type character )               //Added
+tabs (number tabs)                                                        //Added
+encryption(text, encryption key)                                          //Added
+decryption(text, decryption key)                                          //Added
